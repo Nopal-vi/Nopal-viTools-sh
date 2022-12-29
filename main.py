@@ -44,7 +44,7 @@ def main(command):
         resolution(str(input('\n>>')))
     
     elif cmd == '--version':
-        print('\n {} Nopal-viTools [version -sh{}]'.format(colorama.Fore.GREEN, __version__))
+        print('\nNopal-viTools [version -sh{}]'.format(__version__))
         print('{} Creador: {}'.format(colorama.Fore.WHITE, __author__))
     
     elif cmd == '--exit':
