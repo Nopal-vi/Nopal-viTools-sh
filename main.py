@@ -1,5 +1,4 @@
 import os as bash
-import colorama
 
 print('El Script de Nopal-vi 🌵')
 print('--test: <<el primer paso>> verificar si puede ejecutar correctamente el script')
